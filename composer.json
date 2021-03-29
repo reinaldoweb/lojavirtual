@@ -1,5 +1,6 @@
 {
     "name": "reinaldoweb/lojavirtual",
+    "description": "Classes PHP",
     "authors": [
         {
             "name": "Reinaldoweb",
@@ -13,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\reinaldoweb\\php-classes\\src"
         }
     }
 }
